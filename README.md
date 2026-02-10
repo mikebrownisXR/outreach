@@ -1,7 +1,7 @@
 # outreach
 outreach support homeless, addicts, and people with  new to severe mental health durring the housing crisis canada is currently faced with.
 
-using php html css and very little JS (use php for server communication) create a  desktop and movile responsive  web site tailored to our various users who will be accessthing this, intiially displaying a landing page, highlighting the features and tools and benefits to this service, 
+using my MAMP server,  php html css and very little JS (use php for server communication) create a  desktop and movile responsive  web site tailored to our various users who will be accessthing this, intiially displaying a landing page, highlighting the features and tools and benefits to this service, 
 
 
 
